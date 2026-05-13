@@ -127,7 +127,7 @@ What makes this pipeline production-grade rather than just functional:
 
 ## Author
 
-**Mamdouh Faheem** ·
+**Mamdouh Faheem**
 
 Project completed under the supervision of **Eng. Mostafa Hamed**.
 
